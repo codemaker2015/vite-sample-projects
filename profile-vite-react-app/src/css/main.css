@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0596df;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #d4d4d3;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+h1 {
+    color: #0596df;
+}
